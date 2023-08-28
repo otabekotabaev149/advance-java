@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<name>John</name>
+		<gender>Male</gender>
+		<age>18</age>
+	</user>
+	<user>
+		<name>Natasha</name>
+		<gender>Female</gender>
+		<age>23</age>
+	</user>
+	<user>
+		<name>Otabek</name>
+		<gender>Male</gender>
+		<age>21</age>
+	</user>
+	<user>
+		<name>Mohinur</name>
+		<gender>Female</gender>
+		<age>30</age>
+	</user>
+</users>
